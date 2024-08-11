@@ -3,8 +3,9 @@
 # Enter your code on line 7 to print 'Hello, World!'
 # to the console (the panel on the right)
 
-print("Hello");
-
+print("Hello World,", "How are you?")
+print("Hello Python")
+print('Quote the Raven "Nevermore"')
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
